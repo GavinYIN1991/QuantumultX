@@ -1,3 +1,7 @@
+/**
+     * @supported 4619DF477070
+*/
+
 /*
 Remove Zhihu ads
 
